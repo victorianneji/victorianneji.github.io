@@ -15,5 +15,7 @@ Victoria Chibuogu Nneji is a creative strategist and strategic creator passionat
 Specialties
 ------
 **Robotics**
+
 **Transportation**
+
 **Human-Systems Engineering**
