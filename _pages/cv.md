@@ -11,30 +11,55 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Applied Mathematics, Columbia University, 2014
+* M.Eng. in Engineering Management, Duke University, 2015
+* Ph.D. in Robotics, Duke University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2015: Research Fellow
+  * Humans & Autonomy Lab, Duke Robotics
+  * Duties include: Mentor 10 research assistants; invent methods for rapidly prototyping remote management of autonomous vehicle fleets in rail, air, and surface networks; conduct literature review, observational field studies, subject matter expert interviews; manage software development lifecycle of two simulation platforms from concepts of operations to verification, validation, and release; perform comparative case analyses; present results to executives
+  * Supervisor: Professor Missy Cummings
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2018: Research & Tech Innovation Strategist
+  * Aurora Flight Sciences, a Boeing company
+  * Duties included: Consulted with leaders of strategic programs, innovation, robotics, and advanced vehicle development to develop strategy for new aerospace autonomy growth initiatives
+  * Supervisor: Dr. Brian Yutko
+
+* Summer 2017: Design Research Engineer
+  * General Motors
+  * Duties included: Supported advanced technical work of senior human factors engineers focused on driver performance, crash avoidance, and automated vehicle research
+  * Supervisor: Jeff Schultz
+
+* Summer 2015: Design Research Fellow
+  * Center for Work, Technology & Organization, Stanford University School of Engineering
+  * Duties included: Led 60+ human-robot interaction between-subject experiments with sample of teams to test response to innovative emotional artificially intelligent (WoZ) robot user interface designs; published research methods with team
+  * Supervisor: Professor Pamela Hinds 
+
+* 2014-2015: Systems Design Engineer (Consultant)
+  * Budget Execution Division, Office of Research & Development, US Environmental Protection Agency
+  * Duties included: Led user experience research, prototype development, usability testing of new budgeting data integrity system for senior analysts
+  * Supervisor: Brent Eischen
+
+* 2013: Quantitative User Experience Researcher (Consultant)
+  * to.be
+  * Duties included: Supported work of senior designer at art tech startup; mined data to monitor metrics of user experience to inform web and mobile product development and commercialization strategy
+  * Supervisor: Caitlin McMullen
+
+* 2012: Community Business Development Fellow (Consultant)
+  * Kenneth Cole Foundation
+  * Duties included: Developed quantitative method to quickly conduct 100+ bilingual client interviews with team to investigate potential for worker-owned cooperative entrepreneurship; conducted market research and presented recommendations to Northern Manhattan Improvement Corporation directors
+  * Supervisor: Dr. Natasha Rossi
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* User Experience Research
+* Human-Centered Design Thinking
+  * in Transportation Systems
+  * in Remote Operations Centers
+  * in Robot Interaction
+* Team Leadership
 
 Publications
 ======
@@ -56,4 +81,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Board of Trustees, American Institute of Aeronautics & Astronautics (AIAA) since 2018
+* Member, Institute for Operations Research & Management Sciences (INFORMS) since 2018
+* Member, AIAA since 2017
+* Member, Human Factors & Ergonomics Society (HFES) since 2016
+* Member, Institute of Electrical & Electronics Engineers (IEEE) since 2016
+* Reviewer, Transportation Research Board (TRB) since 2016
