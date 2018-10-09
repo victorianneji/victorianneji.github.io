@@ -38,7 +38,7 @@ Work experience
   * Supervisor: Professor Pamela Hinds 
 
 * 2014-2015: Systems Design Engineer (Consultant)
-  * Budget Execution Division, Office of Research & Development, US Environmental Protection Agency
+  * Office of Research & Development, US Environmental Protection Agency
   * Duties included: Led user experience research, prototype development, usability testing of new budgeting data integrity system for senior analysts
   * Supervisor: Brent Eischen
 
@@ -87,3 +87,4 @@ Service and leadership
 * Member, Human Factors & Ergonomics Society (HFES) since 2016
 * Member, Institute of Electrical & Electronics Engineers (IEEE) since 2016
 * Reviewer, Transportation Research Board (TRB) since 2016
+* Advisory Board, Duke University Librarian for Education, Assessment & User Experience since 2014
