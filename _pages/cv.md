@@ -55,7 +55,7 @@ Work experience
 Skills
 ======
 * User Experience Research
-* Human-Centered Design Thinking
+* Human-Centered Design Strategy
   * in Transportation Systems
   * in Remote Operations Centers
   * in Robot Interaction
