@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ======
-Victoria Chibuogu Nneji is a creative strategist and strategic creator passionate about mobility. Her work spans planes, trains, and automobiles. Victoria was born in Lagos, Nigeria, raised in Durham, North Carolina, and grew up on New York City where she was a mathematician and entrepreneur at Columbia University. She started her career at 12 years of age in Durham and returned there to earn her graduate degrees at Duke University. Her PhD is in operations research for autonomous vehicle fleet management.
+Victoria Chibuogu Nneji is a creative strategist and strategic creator passionate about mobility. Her work spans planes, trains, and automobiles. Victoria was born in Lagos, Nigeria and raised in Durham, North Carolina but grew up in New York City where she was a mathematician and entrepreneur at Columbia University. She started her career at 12 years of age at a computational science firm in downtown Durham. She has since returned to earn her graduate degrees at Duke University. Her PhD is in operations research for autonomous vehicle fleet management.
 
 Specialties
 ------
