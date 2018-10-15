@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Simulator of Humans & Automation in Dispatch Operations (SHADO)"
+excerpt: "A discrete event simulation designed to model railroad, airline, and future driverless taxi operations.<br/><img src='/images/shado.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Simulator of Humans and Automation in Dispatch Operations (SHADO) is a tool that allows you to rapidly prototype dispatch operations of transportation systems. SHADO simulates the work of dispatchers and fleet managers under various operating conditions during a shift. With SHADO, you can tune numerous parameters, run the simulation for multiple days, then see the distribution of operator workload and error as well as system delays.
