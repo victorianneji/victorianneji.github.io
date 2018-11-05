@@ -8,7 +8,7 @@ where participants engaged in a short electronics learning activity with a robot
 more trust and feelings of companionship with a vulnerable robot, and reported disclosing more with an expressive robot. These findings suggest that vulnerability and expressivity may improve peoples’ relationships with robots.'
 date: 2016-03-10
 venue: 'ACM/IEEE International Conference on Human Robot Interaction'
-paperurl: 'http://academicpages.github.io/files/ieee_tellmemore.pdf'
+paperurl: 'http://victorianneji.github.io/files/ieee_tellmemore.pdf'
 citation: 'Martelaro, N., Nneji, V. C., Ju, W., & Hinds, P. (2016, March). Tell me more: Designing hri to encourage more trust, disclosure, and companionship. In <i>The Eleventh ACM/IEEE International Conference on Human Robot Interaction </i> (pp. 181-188). IEEE Press.'
 ---
 This paper is about the impact of emotive user interface designs on human-robot interaction, trust, companionship, and disclosure. I collaborated with Stanford University School of Engineering professors and a rising leader in design research.
