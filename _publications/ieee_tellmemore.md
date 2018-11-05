@@ -12,7 +12,3 @@ paperurl: 'http://academicpages.github.io/files/ieee_tellmemore.pdf'
 citation: 'Martelaro, N., Nneji, V. C., Ju, W., & Hinds, P. (2016, March). Tell me more: Designing hri to encourage more trust, disclosure, and companionship. In <i>The Eleventh ACM/IEEE International Conference on Human Robot Interaction </i> (pp. 181-188). IEEE Press.'
 ---
 This paper is about the impact of emotive user interface designs on human-robot interaction, trust, companionship, and disclosure. I collaborated with Stanford University School of Engineering professors and a rising leader in design research.
-
-[Download paper here](http://academicpages.github.io/files/ieee_tellmemore.pdf)
-
-Recommended citation: Martelaro, N., Nneji, V. C., Ju, W., & Hinds, P. (2016, March). Tell me more: Designing hri to encourage more trust, disclosure, and companionship. In <i>The Eleventh ACM/IEEE International Conference on Human Robot Interaction</i> (pp. 181-188). IEEE Press.
