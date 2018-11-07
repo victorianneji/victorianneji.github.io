@@ -1,0 +1,21 @@
+---
+title: "Preliminary Analysis and Simulation of Railroad Dispatcher Workload"
+collection: publications
+permalink: /publication/hfes-2018
+excerpt: 'This paper discusses railroad dispatchers’ work analysis based on a large dispatch center.'
+date: 2017-06-05
+venue: 'Human Factors & Ergonomics Society'
+paperurl: 'victorianneji.github.io/files/Huang, Cummings, Nneji_workload_HFES2018.pdf'
+citation: 'Huang, L., Cummings, M., & Nneji, V. "Preliminary Analysis and Simulation of Railroad Dispatcher Workload." <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</i>, vol. 62, 1: pp. 691-695. First Published September 27, 2018. *Best Paper Award in Human Performance Modeling*'
+---
+I collaborated with postdocs in my lab to gather data from a Class I railroad operations center. We then explored preliminary simulation using a tool formerly designed to model human workload when flying advanced aircraft with a robotic co-pilot in the cockpit:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nh__owcYXkk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+Railroad dispatch centers increasingly use technology to assist dispatchers as they interact with multiple
+entities across a variety of tasks to ensure trains and track personnel function safely on an efficient
+schedule. A railroad dispatcher workload simulation could, therefore, be useful in estimating the impact of
+new technologies on dispatchers’ workload and overall system performance, particularly in the concept
+generation phase of a systems engineering process. This paper first discusses railroad dispatchers’ work
+analysis based on a large dispatch center and then presents the development of the Railroad Dispatcher
+Workload Simulation (RDWS), which generates models of dispatcher workload given various settings.
