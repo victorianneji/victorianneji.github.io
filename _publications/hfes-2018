@@ -5,7 +5,7 @@ permalink: /publication/hfes-2018
 excerpt: 'This paper discusses railroad dispatchers’ work analysis based on a large dispatch center.'
 date: 2018-10-05
 venue: 'Human Factors & Ergonomics Society'
-paperurl: 'victorianneji.github.io/files/hfes-2018.pdf'
+paperurl: 'http://victorianneji.github.io/files/hfes-2018.pdf'
 citation: 'Huang, L., Cummings, M., & Nneji, V. "Preliminary Analysis and Simulation of Railroad Dispatcher Workload." <i>Proceedings of the Human Factors and Ergonomics Society Annual Meeting</i>, vol. 62, 1: pp. 691-695. First Published September 27, 2018. *Best Paper Award in Human Performance Modeling*'
 ---
 I collaborated with postdocs in my lab to gather data from a Class I railroad operations center. We then explored preliminary simulation using a tool formerly designed to model human workload when flying advanced aircraft with a robotic co-pilot in the cockpit:
