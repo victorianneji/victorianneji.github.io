@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Systems Engineering"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate & graduate course"
 permalink: /teaching/2015-fall-teaching-1
 venue: "Duke University, Pratt School of Engineering"
 date: 2015-08-01
