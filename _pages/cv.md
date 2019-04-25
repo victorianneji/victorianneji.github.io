@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Since 2015: Research Fellow
+* Since 2015: Research Lead
   * Humans & Autonomy Lab, Duke Robotics
   * Duties include: Mentor 10 research assistants; invent methods for rapidly prototyping remote management of autonomous vehicle fleets in rail, air, and surface networks; conduct literature review, observational field studies, subject matter expert interviews; manage software development lifecycle of two simulation platforms from concepts of operations to verification, validation, and release; perform comparative case analyses; present results to executives
   * Supervisor: Professor Missy Cummings
