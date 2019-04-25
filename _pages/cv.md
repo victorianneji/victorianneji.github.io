@@ -52,6 +52,11 @@ Work experience
   * Duties included: Developed quantitative method to quickly conduct 100+ bilingual client interviews with team to investigate potential for worker-owned cooperative entrepreneurship; conducted market research and presented recommendations to Northern Manhattan Improvement Corporation directors
   * Supervisor: Dr. Natasha Rossi
 
+* 2010-2012: Co-founder & Chief Executive Officer (CEO)
+  * The Digital STEM
+  * Duties included: Recruited and empowered engineers to teach middle school girls to refurbish software and hardware of pre-owned computers; partnered with local businesses; marketed to principals and parents; pitched to investors
+  * Supervisor: Self, accountable to my team who counted on me!
+
 Skills
 ======
 * User Experience Research
