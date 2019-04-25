@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Applied Mathematics, Columbia University, 2014
 * M.Eng. in Engineering Management, Duke University, 2015
-* Ph.D. in Robotics, Duke University, 2019 (expected)
+* Ph.D. in Robotics, Duke University, 2019
 
 Work experience
 ======
