@@ -57,7 +57,7 @@ Work experience
   * Duties included: Recruited and empowered engineers to teach middle school girls to refurbish software and hardware of pre-owned computers; partnered with local businesses; marketed to principals and parents; pitched to investors
   * Supervisor: Self, accountable to my team who counted on me!
   
-* 2005-2008: Advanced Computational Science Apprentic & Intern
+* 2005-2008: Advanced Computational Science Apprentice & Intern
   * Shodor
   * Duties included: Developed systems dynamics and agent-based simulation models; led software design for local business clients; mentored new apprentices in computational science programming modules
   * Supervisor: Dr. Bob Panoff  
