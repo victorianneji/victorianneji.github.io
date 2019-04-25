@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ======
-Victoria Chibuogu Nneji is a creative strategist and strategic creator passionate about mobility. Her work spans planes, trains, and automobiles. Victoria was born in Lagos, Nigeria and raised in Durham, North Carolina but grew up in New York City where she was a mathematician and entrepreneur at Columbia University. She started her career at 12 years of age at a computational science firm in downtown Durham. She has since returned to earn her graduate degrees at Duke University. Her PhD is in operations research for autonomous vehicle fleet management.
+Dr. Victoria Nneji is completing her time in Duke University's robotics program. She has led multiple simulation software products and teams in the Humans & Autonomy Lab for projects sponsored by both NASA and the US Department of Transportation. Victoria has been an engineer and entrepreneur in the tech industry for 14 years and has spent the last 5 years specializing in strategy for robotics, transportation and human-systems engineering. Her work has included airline, railroad, and future on-demand autonomous air taxi operations.
 
 Specialties
 ------
