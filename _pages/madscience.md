@@ -1,11 +1,13 @@
-## $---
-$permalink: /markdown/
-$title: "Markdown"
-$author_profile: true
-$redirect_from: 
- $ - /md/
- $ - /markdown.html
-## $---
+---
+permalink: /madscience/
+title: "Mobility & Design Science, LLC"
+author_profile: true
+redirect_from: 
+ - /madsci/
+ - /madsciencellc/
+ - /madscillc/
+ - /madscience.html
+---
 
 ## Locations of key files/directories
 
