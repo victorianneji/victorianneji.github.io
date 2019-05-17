@@ -18,8 +18,8 @@ Dr. Victoria Chibuogu Nneji became the first person to earn the Ph.D. in Duke Un
 
 Specialties
 ------
-**Robotics**
+**Automation**
 
-**Transportation**
+**Logistics**
 
-**Human-Systems Engineering**
+**Human-Centered Design**
