@@ -13,13 +13,16 @@ Education
 ======
 * B.S. in Applied Mathematics, Columbia University, 2014
 * M.Eng. in Engineering Management, Duke University, 2015
+* M.S. in Mechanical Engineering, Duke University, 2017
 * Ph.D. in Robotics, Duke University, 2019
+  * Dissertation: "A Workload Model for Designing & Staffing Future Transportation Network Operations"
+  * Committee: Drs. Missy Cummings, Alfredo Garcia, Jeff Glass, Michael Zavlanos
 
 Work experience
 ======
-* Since 2015: Research Lead
+* 2015-2019: Research Lead
   * Humans & Autonomy Lab, Duke Robotics
-  * Duties include: Mentor 10 research assistants; invent methods for rapidly prototyping remote management of autonomous vehicle fleets in rail, air, and surface networks; conduct literature review, observational field studies, subject matter expert interviews; manage software development lifecycle of two simulation platforms from concepts of operations to verification, validation, and release; perform comparative case analyses; present results to executives
+  * Duties include: Mentor 10 engineering students; invent methods for rapidly prototyping remote management of autonomous vehicle fleets in rail, air, and surface networks; conduct literature review, observational field studies, subject matter expert interviews; manage software development lifecycle of two simulation platforms from concepts of operations to verification, validation, and release; perform comparative case analyses; present results to executives
   * Supervisor: Professor Missy Cummings
 
 * Summer 2018: Research & Tech Innovation Strategist
@@ -31,6 +34,11 @@ Work experience
   * General Motors
   * Duties included: Supported advanced technical work of senior human factors engineers focused on driver performance, crash avoidance, and automated vehicle research
   * Supervisor: Jeff Schultz
+
+* 2015-2018: City Commissioner
+  * Passenger Vehicle-for-Hire Commission for City of Durham, North Carolina
+  * Duties included: Served public to ensure level of safety in operations.
+  * Supervisor: Mayor Bill Bell
 
 * Summer 2015: Design Research Fellow
   * Center for Work, Technology & Organization, Stanford University School of Engineering
@@ -85,10 +93,11 @@ Publications
     
 Service and leadership
 ======
+* Member, Association for Unmanned Vehicle Systems International (AUVSI) since 2019
 * Board of Trustees, American Institute of Aeronautics & Astronautics (AIAA) since 2018
 * Member, Institute for Operations Research & Management Sciences (INFORMS) since 2018
 * Member, AIAA since 2017
 * Member, Human Factors & Ergonomics Society (HFES) since 2016
 * Member, Institute of Electrical & Electronics Engineers (IEEE) since 2016
 * Reviewer, Transportation Research Board (TRB) since 2016
-* Advisory Board, Duke University Librarian for Education, Assessment & User Experience since 2014
+* Advisory Board, Duke University Librarian for Education, Assessment & User Experience 2014-2018
