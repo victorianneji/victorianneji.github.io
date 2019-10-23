@@ -7,7 +7,7 @@ venue: "Duke University, Pratt School of Engineering"
 date: 2020-01-01
 location: "Durham, NC, USA"
 --- 
-ME 555 / ECE 590 / EGRMGMT 590: Autonomous Systems Engineering is for ambitious junior, senior, master, and PhD students in mechanical engineering, electrical / computer engineering, and engineering management. This course fosters an inclusive and accessible learning environment. Students learn how to design and manage real-world operations in industries that integrate robotics and artificial intelligence in human-machine systems. Lessons include work with industry client, guest lectures, case studies, paired problem solving, and test & evaluation plans.
+ME 555 / ECE 590 / EGRMGMT 590: Autonomous Systems Engineering is for ambitious junior, senior, masters, and PhD students in mechanical engineering, electrical / computer engineering, and engineering management. This course fosters an inclusive and accessible learning environment. Students learn how to design and manage real-world operations in industries that integrate robotics and artificial intelligence in human-machine systems. Lessons include work with industry client, guest lectures, case studies, paired problem solving, and test & evaluation plans.
 
 Objectives
 ======
