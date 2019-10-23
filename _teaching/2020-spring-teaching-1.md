@@ -74,7 +74,7 @@ Students are encouraged to make the best use of being at Duke:
 Topics
 ======
 <table>
-  <tr><th>Day</th><th>Topic</th></tr>
+  <tr bgcolor="#ddd"><td><b>Day</b></td><td><b>Topic</b></td></tr>
   <tr><td>0</td><td>Introductions, Backgrounds & Methods</td></tr>
   <tr><td>1</td><td>What is Systems Engineering?</td></tr>
   <tr><td>2</td><td>How does Autonomy Change Systems Engineering?</td></tr>
@@ -89,7 +89,7 @@ Topics
   <tr><td>11</td><td>Verifying Implemented Elements</td></tr>
   <tr><td>12</td><td>Integrating Subsystems</td></tr>
   <tr><td>13</td><td>Integrating & Verifying the Human-System</td></tr>
-  <tr><td>14</td><td>Verifying Pair Project Progress (MIDTERM)</td></tr>
+  <tr><td>14</td><td>Verifying Pair Project Progress [Midterm]</td></tr>
   <tr><td>15</td><td>Guest Lecturer TBA from Duke Cultural Anthropology on Socio-technical Considerations of Autonomous Systems</td></tr>
   <tr><td>16</td><td>Guest Lecturer TBA from Duke Robotics on Modeling Autonomous Systems</td></tr>
   <tr><td>17</td><td>Guest Lecturer TBA from Duke Statistical Science on Designing Experiments</td></tr>
@@ -99,6 +99,6 @@ Topics
   <tr><td>21</td><td>Guest Lecturer TBA from SAS on Communicating Engineering</td></tr>
   <tr><td>22</td><td>Guest Lecturer TBA from Toyota Industrial Equipment Manufacturing on Innovating Engineering in Material Handling</td></tr>
   <tr><td>23</td><td>Guest Lecturer TBA from LCI Tech on Designing Accessible Warehouse Automation Interfaces to Enable Future Workforce</td></tr>
-  <tr><td>24</td><td>Presenting Autonomous Systems Engineering Solutions to TBA from Durham Coca-Cola Bottling Company (at Duke)</td></tr>
-  <tr><td>25</td><td>Presenting Autonomous Systems Engineering Solutions to TBA from Durham Coca-Cola Bottling Company (at Company)</td></tr>
+  <tr><td>24</td><td>Presenting Autonomous Systems Engineering Solutions to TBA from Durham Coca-Cola Bottling Company [Project]</td></tr>
+  <tr><td>25</td><td>Presenting Autonomous Systems Engineering Solutions to TBA from Durham Coca-Cola Bottling Company [Project]</td></tr>
 </table>
