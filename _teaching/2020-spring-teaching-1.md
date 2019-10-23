@@ -70,3 +70,10 @@ Students are encouraged to make the best use of being at Duke:
 4. Accommodations - formal requests due March 16, 2020: <a href="https://access.duke.edu/students">access.duke.edu/students</a>
 5. Academic Resource Center for consultants, tutors, and specialists: <a href="https://arc.duke.edu/">arc.duke.edu</a>
 6. Teaching Assistant and Professor
+
+Topics
+======
+<table><tr><td>Week</td><td>Topic</td></tr>
+<tr><td>0</td><td>Introductions, Backgrounds & Methods</td></tr>
+<tr><td>1</td><td>What is Systems Engineering?</td></tr>
+</table>
