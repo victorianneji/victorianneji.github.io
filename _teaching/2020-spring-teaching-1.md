@@ -11,33 +11,33 @@ ME 555 / ECE 590 / EGRMGMT 590: Autonomous Systems Engineering is for ambitious 
 
 Objectives
 ======
-• Understand how the fundamental components of an autonomous system (physical system, perception and sensing, planning and control) contribute to an integrated system.
+* Understand how the fundamental components of an autonomous system (physical system, perception and sensing, planning and control) contribute to an integrated system.
 
-• Understand how fundamental concepts from fields such as machine learning, artificial intelligence, and human robot interaction relate to autonomous systems engineering.
+* Understand how fundamental concepts from fields such as machine learning, artificial intelligence, and human robot interaction relate to autonomous systems engineering.
 
-• Apply systems engineering tools (e.g., stakeholder identification, requirements development, robust design principles) to realistic systems.
+* Apply systems engineering tools (e.g., stakeholder identification, requirements development, robust design principles) to realistic systems.
 
-• Identify areas that could be served by modeling and simulation, and identify the associated benefits and limitations.
+* Identify areas that could be served by modeling and simulation, and identify the associated benefits and limitations.
 
-• Identify strengths and weaknesses in the design of different autonomous systems.
+* Identify strengths and weaknesses in the design of different autonomous systems.
 
-• Develop and review a test and evaluation plan for an autonomous systems.
+* Develop and review a test and evaluation plan for an autonomous systems.
 
-• Understand the social, legal, and policy challenges associated with the design and introduction of autonomous systems.
+* Understand the social, legal, and policy challenges associated with the design and introduction of autonomous systems.
 
 Assessment
 ======
 Student learning is assessed based on preparation, participation, and presentation in class.
 
-• Class participation: 10%
+* Class participation: 10%
 
-• Case Study presentation: 10%
+* Case Study presentation: 10%
 
-• Midterm: 20%
+* Midterm: 20%
 
-• Project: 40%
+* Project: 40%
 
-• Project evaluation: 20%
+* Project evaluation: 20%
 
 Assignments
 ======
@@ -50,3 +50,23 @@ Assignments
 4. The project is a real-world assignment from a company with a real-world problem.  This is an opportunity to learn how to listen intently, ask insightful questions, develop solutions, solicit requirements, and develop a test plan to evaluate how well the design of autonomous systems meet client needs. About 75% of this work will culminate in a written report while 25% will be communicated in person through an executive summary-style presentation to the client. Due Friday, April 17, 2020.
 
 5. Finally, the fun part.  Each student will get to evaluate another pair’s project by writing a comprehensive and constructive analysis on their written report and presentation. Due Monday, April 27, 2020.
+
+Materials
+======
+All texts used in class shall be accessible to students.
+* How to guide to systems engineering: <a href="https://sebokwiki.org/wiki/SEBoK_Table_of_Contents">sebokwiki.org/wiki/SEBoK_Table_of_Contents</a> by International Council on Systems Engineering (INCOSE), Institute of Electrical and Electronics Engineers (IEEE) Computer Society, and Stevens Institute of Technology
+<br/><img src='/images/sebokwiki.org.png'>
+* How to plan for test and evaluation of autonomous systems: Better Embedded System Software by Philip Koopman (2010) available at Duke Libraries
+<br/><img src='/images/bess_back.gif'>
+* How to engineer systems with humans in mind: An Introduction to Human Factors Engineering by Lee, Wickens Liu, & Boyle (2017) available at Duke Libraries
+<br/><img src='/images/dfp_lee_cover.png'>
+
+Campus Resources
+======
+Students are encouraged to make the best use of being at Duke:
+1. Librarian, Sarah Park: <a href="https://guides.library.duke.edu/engr">guides.library.duke.edu/engr</a>
+2. Presentations: <a href="https://pratt.duke.edu/grad/students/comms-and-intercultural-programs">pratt.duke.edu/grad/students/comms-and-intercultural-programs</a>
+3. Papers: <a href="https://gradschool.duke.edu/professional-development/programs/writing-support">gradschool.duke.edu/professional-development/programs/writing-support</a>
+4. Accommodations - formal requests due March 16, 2020: <a href="https://access.duke.edu/students">access.duke.edu/students</a>
+5. Academic Resource Center for consultants, tutors, and specialists: <a href="https://arc.duke.edu/">arc.duke.edu</a>
+6. Teaching Assistant and Professor
