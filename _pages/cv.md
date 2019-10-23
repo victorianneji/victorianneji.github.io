@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Applied Mathematics, Columbia University, 2014
+  * Minor in Entrepreneurship & Innovation
 * M.Eng. in Engineering Management, Duke University, 2015
 * M.S. in Mechanical Engineering, Duke University, 2017
   * Thesis: "Simulator of Human Operator Workload: Design, Validation & Analysis for Freight Rail Operations"
@@ -19,6 +20,7 @@ Education
 * Ph.D. in Robotics, Duke University, 2019
   * Dissertation: "A Workload Model for Designing & Staffing Future Transportation Network Operations"
   * Committee: Drs. Missy Cummings, Alfredo Garcia, Jeff Glass, Michael Zavlanos
+  * Certificate in College Teaching
 
 Teaching
 ======
@@ -42,4 +44,5 @@ Service and leadership
 * Member, Human Factors & Ergonomics Society (HFES) since 2016
 * Member, Institute of Electrical & Electronics Engineers (IEEE) since 2016
 * Reviewer, Transportation Research Board (TRB) since 2016
+* Commissioner, City of Durham, Transportation, 2015-2018
 * Advisory Board, Duke University Librarian for Education, Assessment & User Experience 2014-2018
