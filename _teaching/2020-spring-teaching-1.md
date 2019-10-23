@@ -73,7 +73,32 @@ Students are encouraged to make the best use of being at Duke:
 
 Topics
 ======
-<table><tr><td>Week</td><td>Topic</td></tr>
-<tr><td>0</td><td>Introductions, Backgrounds & Methods</td></tr>
-<tr><td>1</td><td>What is Systems Engineering?</td></tr>
+<table>
+  <tr><th>Day</th><th>Topic</th></tr>
+  <tr><td>0</td><td>Introductions, Backgrounds & Methods</td></tr>
+  <tr><td>1</td><td>What is Systems Engineering?</td></tr>
+  <tr><td>2</td><td>How does Autonomy Change Systems Engineering?</td></tr>
+  <tr><td>3</td><td>Autonomous Systems Engineering Approaches</td></tr>
+  <tr><td>4</td><td>Defining the Problem</td></tr>
+  <tr><td>5</td><td>Generating Concepts</td></tr>
+  <tr><td>6</td><td>Developing Concepts of Operations (CONOPS)</td></tr>
+  <tr><td>7</td><td>Defining Human-System Requirements</td></tr>
+  <tr><td>8</td><td>Verifying Human-System Requirements</td></tr>
+  <tr><td>9</td><td>Designing Human-System Elements</td></tr>
+  <tr><td>10</td><td>Implementing & Acquiring Elements</td></tr>
+  <tr><td>11</td><td>Verifying Implemented Elements</td></tr>
+  <tr><td>12</td><td>Integrating Subsystems</td></tr>
+  <tr><td>13</td><td>Integrating & Verifying the Human-System</td></tr>
+  <tr><td>14</td><td>Verifying Pair Project Progress (MIDTERM)</td></tr>
+  <tr><td>15</td><td>Guest Lecturer TBA from Duke Cultural Anthropology on Socio-technical Considerations of Autonomous Systems</td></tr>
+  <tr><td>16</td><td>Guest Lecturer TBA from Duke Robotics on Modeling Autonomous Systems</td></tr>
+  <tr><td>17</td><td>Guest Lecturer TBA from Duke Statistical Science on Designing Experiments</td></tr>
+  <tr><td>18</td><td>Guest Lecturer TBA from North Carolina Department of Transportation on Public Policy Implications of Unmanned Vehicles</td></tr>
+  <tr><td>19</td><td>Guest Lecturer TBA from Durham County on Managing Emergency Air and Ground Transport Systems</td></tr>
+  <tr><td>20</td><td>Guest Lecturer TBA from Uber Advanced Technologies Group on Systems Engineering at Scale</td></tr>
+  <tr><td>21</td><td>Guest Lecturer TBA from SAS on Communicating Engineering</td></tr>
+  <tr><td>22</td><td>Guest Lecturer TBA from Toyota Industrial Equipment Manufacturing on Innovating Engineering in Material Handling</td></tr>
+  <tr><td>23</td><td>Guest Lecturer TBA from LCI Tech on Designing Accessible Warehouse Automation Interfaces to Enable Future Workforce</td></tr>
+  <tr><td>24</td><td>Presenting Autonomous Systems Engineering Solutions to TBA from Durham Coca-Cola Bottling Company (at Duke)</td></tr>
+  <tr><td>25</td><td>Presenting Autonomous Systems Engineering Solutions to TBA from Durham Coca-Cola Bottling Company (at Company)</td></tr>
 </table>
