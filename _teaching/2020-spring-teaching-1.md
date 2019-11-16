@@ -21,7 +21,7 @@ Objectives
 
 * Identify strengths and weaknesses in the design of different autonomous systems.
 
-* Develop and review a test and evaluation plan for an autonomous systems.
+* Develop and review a test and evaluation plan for an autonomous system.
 
 * Understand the social, legal, and policy challenges associated with the design and introduction of autonomous systems.
 
@@ -69,7 +69,7 @@ Students are encouraged to make the best use of being at Duke:
 3. Papers: <a href="https://gradschool.duke.edu/professional-development/programs/writing-support">gradschool.duke.edu/professional-development/programs/writing-support</a>
 4. Accommodations - formal requests due March 16, 2020: <a href="https://access.duke.edu/students">access.duke.edu/students</a>
 5. Academic Resource Center for consultants, tutors, and specialists: <a href="https://arc.duke.edu/">arc.duke.edu</a>
-6. Teaching Assistant and Professor
+6. Teaching Assistants and Professor
 
 Topics
 ======
@@ -92,7 +92,7 @@ Topics
   <tr><td>14</td><td>Verifying Pair Project Progress [Midterm]</td></tr>
   <tr><td>15</td><td>Guest Lecturer TBA from Duke Cultural Anthropology on Socio-technical Considerations of Autonomous Systems</td></tr>
   <tr><td>16</td><td>Guest Lecturer TBA from Duke Robotics on Modeling Autonomous Systems</td></tr>
-  <tr><td>17</td><td>Guest Lecturer TBA from Duke Statistical Science on Designing Experiments</td></tr>
+  <tr><td>17</td><td>Guest Lecturer TBA from Duke Statistical Science on Analysis of Variance</td></tr>
   <tr><td>18</td><td>Guest Lecturer TBA from North Carolina Department of Transportation on Public Policy Implications of Unmanned Vehicles</td></tr>
   <tr><td>19</td><td>Guest Lecturer TBA from Durham County on Managing Emergency Air and Ground Transport Systems</td></tr>
   <tr><td>20</td><td>Guest Lecturer TBA from Uber Advanced Technologies Group on Systems Engineering at Scale</td></tr>
