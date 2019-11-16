@@ -36,7 +36,7 @@ Publications
     
 Service and leadership
 ======
-* Advisory Board, Uber Advanced Technologies Group (ATG), Safety & Responsibility since 2019
+* Advisory Board, Uber Advanced Technologies Group (ATG), Self-Driving Safety & Responsibility since 2019
 * Member, Association for Unmanned Vehicle Systems International (AUVSI) since 2019
 * Board of Trustees, American Institute of Aeronautics & Astronautics (AIAA) since 2018
 * Member, Institute for Operations Research & Management Sciences (INFORMS) since 2018
