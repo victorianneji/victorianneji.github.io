@@ -79,26 +79,27 @@ Topics
   <tr><td>1</td><td>What is Systems Engineering?</td></tr>
   <tr><td>2</td><td>How does Autonomy Change Systems Engineering?</td></tr>
   <tr><td>3</td><td>Autonomous Systems Engineering Approaches</td></tr>
-  <tr><td>4</td><td>Defining the Problem</td></tr>
-  <tr><td>5</td><td>Generating Concepts</td></tr>
+  <tr><td>4</td><td>Defining the Problem with Industry Client Durham Coca-Cola Company President Hager Rand and Director of Operations Fred Anderson</td></tr>
+  <tr><td>5</td><td>User-Centered Design Process with Guest Lecturer from Lenovo, Senior Manager for User Experience Design, Jonnie Lee</td></tr>
   <tr><td>6</td><td>Developing Concepts of Operations (CONOPS)</td></tr>
   <tr><td>7</td><td>Defining Human-System Requirements</td></tr>
   <tr><td>8</td><td>Verifying Human-System Requirements</td></tr>
   <tr><td>9</td><td>Designing Human-System Elements</td></tr>
-  <tr><td>10</td><td>Implementing & Acquiring Elements</td></tr>
-  <tr><td>11</td><td>Verifying Implemented Elements</td></tr>
-  <tr><td>12</td><td>Integrating Subsystems</td></tr>
-  <tr><td>13</td><td>Integrating & Verifying the Human-System</td></tr>
-  <tr><td>14</td><td>Verifying Pair Project Progress [Midterm]</td></tr>
-  <tr><td>15</td><td>Guest Lecturer TBA from Duke Cultural Anthropology on Socio-technical Considerations of Autonomous Systems</td></tr>
-  <tr><td>16</td><td>Guest Lecturer TBA from Duke Robotics on Modeling Autonomous Systems</td></tr>
-  <tr><td>17</td><td>Guest Lecturer TBA from Duke Statistical Science on Analysis of Variance</td></tr>
-  <tr><td>18</td><td>Guest Lecturer TBA from North Carolina Department of Transportation on Public Policy Implications of Unmanned Vehicles</td></tr>
-  <tr><td>19</td><td>Guest Lecturer TBA from Durham County on Managing Emergency Air and Ground Transport Systems</td></tr>
-  <tr><td>20</td><td>Guest Lecturer TBA from Uber Advanced Technologies Group on Systems Engineering at Scale</td></tr>
-  <tr><td>21</td><td>Guest Lecturer TBA from SAS on Communicating Engineering</td></tr>
-  <tr><td>22</td><td>Guest Lecturer TBA from Toyota Industrial Equipment Manufacturing on Innovating Engineering in Material Handling</td></tr>
-  <tr><td>23</td><td>Guest Lecturer TBA from LCI Tech on Designing Accessible Warehouse Automation Interfaces to Enable Future Workforce</td></tr>
-  <tr><td>24</td><td>Presenting Autonomous Systems Engineering Solutions to TBA from Durham Coca-Cola Bottling Company [Project]</td></tr>
-  <tr><td>25</td><td>Presenting Autonomous Systems Engineering Solutions to TBA from Durham Coca-Cola Bottling Company [Project]</td></tr>
+  <tr><td>10</td><td>Verifying Design with Guest Lecturer from Duke Fuqua School of Business, Professor Emeritus of Strategy, Dr. Rich Burton</td></tr>
+  <tr><td>11</td><td>Implementing & Acquiring Elements</td></tr>
+  <tr><td>12</td><td>Verifying Implemented Elements</td></tr>
+  <tr><td>13</td><td>Integrating Subsystems</td></tr>
+  <tr><td>14</td><td>Implementing & Validating the Human-System Operation</td></tr>
+  <tr><td>15</td><td>Verifying Pair Project Progress [Midterm]</td></tr>
+  <tr><td>16</td><td>The Essential Human Element of Communication Systems with Guest Lecturer from SAS Institute, Global Industry Principal for Manufacturing, Marcia Walker</td></tr>
+  <tr><td>17</td><td>Systems Engineering at Scale with Guest Lecturer from Uber ATG, System Engineer, Lauren Silverstein (Pratt ‘15)</td></tr>
+  <tr><td>18</td><td>Analysis of Variance (ANOVA) with Guest Lecturer from Duke Statistical Science, Assistant Professor of the Practice, Dr. Maria Tackett</td></tr>
+  <tr><td>19</td><td>Value of Safety and Regulations in Autonomous Systems Engineering with Guest Lecturer from Boeing, Director of Regulatory Affairs for Autonomous Systems Engineering, Stella Weidner</td></tr>
+  <tr><td>20</td><td>Managing On-Demand Air and Ground Transport Systems with Guest Lecturer from Durham County Emergency Medical Services, System Medical Director, Dr. Anjni Joiner</td></tr>
+  <tr><td>21</td><td>Public Policy Implications of Unmanned Vehicles with Guest Lecturer from North Carolina Department of Transportation, Executive Director of Turnpike Authority, J.J. Eden</td></tr>
+  <tr><td>22</td><td>Lecture TBD by Dr. Nneji per student project needs</td></tr>
+  <tr><td>23</td><td>Socio-technical Considerations of Autonomous Systems with Guest Lecturer from Duke Cultural Anthropology, PhD Candidate, Derya Mentes</td></tr>
+  <tr><td>24</td><td>Designing Accessible Warehouse Automation Interfaces to Enable Future Workforce with Guest Lecturer from LC Industries, Head of LCI Tech, John Samuel</td></tr>
+  <tr><td>25</td><td>Presenting Autonomous Systems Engineering Solutions to Industry Client Durham Coca-Cola Bottling Company Director of Operations Fred Anderson [Project] (in Classroom)</td></tr>
+  <tr><td>26</td><td>Presenting Autonomous Systems Engineering Solutions to Industry Client Durham Coca-Cola Bottling Company President Hager Rand and Director of Operations Fred Anderson [Project] (at Company)</td></tr>
 </table>
