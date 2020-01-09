@@ -16,7 +16,7 @@ Education
 * M.Eng. in Engineering Management, Duke University, 2015
 * M.S. in Mechanical Engineering, Duke University, 2017
   * Thesis: "Simulator of Human Operator Workload: Design, Validation & Analysis for Freight Rail Operations"
-  * Committee: Professors Nilay Argon, Missy Cummings, Daniel Egger, George Konidaris
+  * Committee: Professors Nilay Argon, Missy Cummings, Daniel Egger, George Konidaris (Chair nominated Distinction Award)
 * Ph.D. in Robotics, Duke University, 2019
   * Dissertation: "A Workload Model for Designing & Staffing Future Transportation Network Operations"
   * Committee: Drs. Missy Cummings, Alfredo Garcia, Jeff Glass, Michael Zavlanos
