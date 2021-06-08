@@ -10,7 +10,7 @@ redirect_from:
 
 Bio
 ======
-Dr. Victoria Chibuogu Nneji has been an engineer and entrepreneur in the tech industry for 15 years and has spent the last 6 years specializing in robotics, transportation and human-systems engineering. Her work has included airline, railroad, and future on-demand autonomous air taxi operations.
+Dr. Victoria Chibuogu Nneji has been an engineer and entrepreneur in the tech industry for 16 years and has spent the last 7 years specializing in robotics, transportation and human-systems engineering. Her work has included airline, railroad, and future on-demand autonomous air taxi operations.
 
 Dr. Nneji's life journey has been highly improbable but with God it has all been possible. 
 
