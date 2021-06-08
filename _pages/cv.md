@@ -36,13 +36,14 @@ Publications
     
 Service and leadership
 ======
-* Advisory Board, Uber Advanced Technologies Group (ATG), Self-Driving Safety & Responsibility since 2019
+* Advisory Board, Aurora Innovation, Safety since 2021
 * Member, Association for Unmanned Vehicle Systems International (AUVSI) since 2019
-* Board of Trustees, American Institute of Aeronautics & Astronautics (AIAA) since 2018
 * Member, Institute for Operations Research & Management Sciences (INFORMS) since 2018
-* Member, AIAA since 2017
+* Member, American Institute of Aeronautics & Astronautics (AIAA) since 2017
 * Member, Human Factors & Ergonomics Society (HFES) since 2016
 * Member, Institute of Electrical & Electronics Engineers (IEEE) since 2016
 * Reviewer, Transportation Research Board (TRB) since 2016
+* Advisory Board, Uber Advanced Technologies Group (ATG), Self-Driving Safety & Responsibility, 2019-2021
+* Board of Trustees, AIAA, 2018-2020
 * Commissioner, City of Durham, Transportation, 2015-2018
-* Advisory Board, Duke University Librarian for Education, Assessment & User Experience 2014-2018
+* Advisory Board, Duke University Librarian for Education, Assessment & User Experience, 2014-2018
